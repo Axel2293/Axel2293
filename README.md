@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **axel.escoto@iteso.mx**
 
-- ⚡ Fun fact **I think i have severe TDAH**
+- ⚡ Fun fact **My cat has my same mental issues**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
