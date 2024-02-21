@@ -3,16 +3,17 @@
 
 - 🔭 I’m currently working on **Text compressor**
 
-- 🌱 I’m currently learning **Cassandra, Frontend and Backend**
+- 🌱 I’m currently learning **Cassandra, Backend/Frontend, Rust, C++, POSIX, Docker**
 
 - 💬 Ask me about **Linux, pointers, data structures and algorithms**
 
-- 📫 How to reach me **axel.escoto@iteso.mx**
+- 📫 How to reach me **axel.escoto@iteso.mx** or **axelwa@outlook.com**
 
-- ⚡ Fun fact **My cat has my same mental issues**
+- ⚡ Fun fact **[MSG] Auto breathing deactivated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/axel-escoto-garcía-b43846212/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
