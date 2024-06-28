@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Text compressor and other non disclosed projects**
 
-- 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science purpuses (Machine learning, AI, Deep Learning, etc..)**
+- 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science (Machine learning, AI, Deep Learning, etc..)**
 
 - 💬 Ask me about **C :p**
 
