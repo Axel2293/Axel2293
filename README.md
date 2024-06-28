@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
-<h3 align="center">Passionate C, Java and Python developer.</h3>
+<h3 align="center">Passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Text compressor**
+- 🔭 I’m currently working on **Text compressor and other non disclosed projects**
 
 - 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science purpuses (Machine learning, AI, Deep Learning, etc..)**
 
