@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Text compressor**
 
-- 🌱 I’m currently learning **Cassandra, Backend/Frontend, Rust, C++, POSIX, Docker**
+- 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science purpuses (Machine learning, AI, Deep Learning, etc..)**
 
-- 💬 Ask me about **Linux, pointers, data structures and algorithms**
+- 💬 Ask me about **C :p**
 
 - 📫 How to reach me **axel.escoto@iteso.mx** or **axelwa@outlook.com**
 
