@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Text compressor and CI Pipelines**
 
-- 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science (Machine learning, AI, Deep Learning, etc..)**
+- 🌱 I’m currently learning **Advanced C (Sockets, etc..), Advanced Python for data science (Machine learning, AI, Deep Learning, etc..), DevOps technologies like Jenkins, Docker, Kubernetes, Groovy scripting**
 
 - 📫 How to reach me **axel.escoto@iteso.mx**, **axelwa@outlook.com** or **axel.escoto.garcia@intel.mx**
 
