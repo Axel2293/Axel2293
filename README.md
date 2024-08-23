@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">Passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Text compressor and other non disclosed projects**
+- 🔭 I’m currently working on **Text compressor and CI Pipelines**
 
 - 🌱 I’m currently learning **Advanced C (Sockets, etc..) and Advanced Python for data science (Machine learning, AI, Deep Learning, etc..)**
 
-- 💬 Ask me about **C :p**
-
-- 📫 How to reach me **axel.escoto@iteso.mx** or **axelwa@outlook.com**
+- 📫 How to reach me **axel.escoto@iteso.mx**, **axelwa@outlook.com** or **axel.escoto.garcia@intel.mx**
 
 - ⚡ Fun fact **[MSG] Auto breathing deactivated**
 
