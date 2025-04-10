@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel</h1>
 <h3 align="center">Passionate Computer Science Student</h3>
 
-- 🔭 I’m currently working on **Text compressor and CI Pipelines**
+- 🔭 I’m currently working on **MFRC522-Linux and CI Pipelines**
 
 - 🌱 I’m currently learning **Advanced C (Sockets, etc..), Advanced Python for data science (Machine learning, AI, Deep Learning, etc..), DevOps technologies like Jenkins, Docker, Kubernetes, Groovy scripting**
 
